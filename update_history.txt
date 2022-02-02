@@ -1,0 +1,12 @@
+1. Version 1 (Estimated Release Date: mid March 2022):
+- The player can catch wild legendary creatures encountered in grass tiles.
+- The player can bring legendary creatures to battles.
+- The item shop sells runes of all ratings (i.e., 1 to 6).
+- The player can choose various real-life actions
+(e.g., gain knowledge from doing courses, battle against other game characters, get job roles, grow crops, etc.)
+- Minigames can be played.
+
+2. Version 2 (Release Date: TBA):
+- Web-based version of the text-based RPG.
+- The RPG to be turned into an MMORPG for improvement.
+- JavaScript/PHP, HTML, and CSS programming languages would be used to create the web-based version of the game.
