@@ -5,8 +5,3 @@
 - The player can choose various real-life actions
 (e.g., gain knowledge from doing courses, battle against other game characters, get job roles, grow crops, etc.)
 - Minigames can be played.
-
-2. Version 2 (Release Date: TBA):
-- Web-based version of the text-based RPG.
-- The RPG to be turned into an MMORPG for improvement.
-- JavaScript/PHP, HTML, and CSS programming languages would be used to create the web-based version of the game.
